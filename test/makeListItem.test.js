@@ -9,6 +9,6 @@
 //     const li = makeListitemLink(questData); 
     
 
-//     assert.deepEqual(expected, userObject);
+//     assert.deepEqual(expected, li);
 
 // }); 
