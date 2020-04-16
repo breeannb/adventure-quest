@@ -16,3 +16,4 @@ myForm.addEventListener('submit', (event) => {
     // console.log(form.get('class'), form.get('name')); // when inputing something in the form at this point, it will console log your user input
 
 }); 
+
