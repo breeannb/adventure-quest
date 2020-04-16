@@ -11,6 +11,7 @@ export default function makeUser(_formData) {
         HP: 50, 
         gold: 0, 
     };
-    // console.log(userObject);
+
     return userObject;
+
 }
